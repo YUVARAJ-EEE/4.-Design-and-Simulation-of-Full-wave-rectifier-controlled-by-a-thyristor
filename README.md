@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1538" height="534" alt="image" src="https://github.com/user-attachments/assets/27d4b01a-5087-4886-9be1-9950046bfae8" />
+
 ## Output
+<img width="1903" height="1059" alt="image" src="https://github.com/user-attachments/assets/ee41daf0-d1bc-4046-ba5f-1a69c603b6ab" />
+
 ## Result
+The thyristor-controlled full-wave rectifier in MATLAB Simulink converts AC to a controlled DC output, and the average DC voltage decreases with increasing firing angle.
